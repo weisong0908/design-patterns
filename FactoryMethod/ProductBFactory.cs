@@ -1,6 +1,6 @@
 namespace design_patterns.FactoryMethod
 {
-    public class ProductBCreator : Creator
+    public class ProductBFactory : Factory
     {
         public override IProduct CreateProduct()
         {
