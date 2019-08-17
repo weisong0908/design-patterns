@@ -6,7 +6,7 @@ namespace design_patterns
     {
         static void Main(string[] args)
         {
-            FactoryMethod.FactoryMethod.Run();
+            AbstractFactory.AbstractFactory.Run();
         }
     }
 }
