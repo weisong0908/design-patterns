@@ -1,6 +1,6 @@
 namespace design_patterns.Builder
 {
-    public static class Builder
+    public static class Client
     {
         public static void Run()
         {

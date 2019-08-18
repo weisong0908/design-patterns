@@ -1,6 +1,6 @@
 namespace design_patterns.AbstractFactory
 {
-    public static class AbstractFactory
+    public static class Client
     {
         public static void Run()
         {

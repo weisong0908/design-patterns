@@ -1,6 +1,6 @@
 namespace design_patterns.Prototype
 {
-    public static class Prototype
+    public static class Client
     {
         public static void Run()
         {

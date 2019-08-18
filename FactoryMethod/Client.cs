@@ -1,6 +1,6 @@
 namespace design_patterns.FactoryMethod
 {
-    public static class FactoryMethod
+    public static class Client
     {
         public static void Run()
         {
