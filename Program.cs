@@ -6,7 +6,7 @@ namespace design_patterns
     {
         static void Main(string[] args)
         {
-            Decorator.Client.Run();
+            Facade.Client.Run();
         }
     }
 }
