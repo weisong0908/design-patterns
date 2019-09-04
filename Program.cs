@@ -6,7 +6,7 @@ namespace design_patterns
     {
         static void Main(string[] args)
         {
-            Proxy.Client.Run();
+            ChainOfResponsibility.Client.Run();
         }
     }
 }
