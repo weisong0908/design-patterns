@@ -6,7 +6,7 @@ namespace design_patterns
     {
         static void Main(string[] args)
         {
-            Iterator.Client.Run();
+            Mediator.Client.Run();
         }
     }
 }
