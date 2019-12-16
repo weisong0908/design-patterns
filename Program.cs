@@ -6,7 +6,7 @@ namespace design_patterns
     {
         static void Main(string[] args)
         {
-            Mediator.Client.Run();
+            Memento.Client.Run();
         }
     }
 }
