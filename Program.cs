@@ -6,7 +6,7 @@ namespace design_patterns
     {
         static void Main(string[] args)
         {
-            Memento.Client.Run();
+            Observer.Client.Run();
         }
     }
 }
